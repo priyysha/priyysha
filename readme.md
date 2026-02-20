@@ -5,8 +5,7 @@
 ## 🌱 About Me
 
 🎓 Pre-final year **B.Tech CSE student at DIT University**  
-💻 Front-end Developer | Open Source Contributor
-
+💻 Full Stack Developer | Open Source Contributor  
 🤖 Exploring **AI, ML and Robotics**  
 📈 Aspiring **Software Engineer**  
 🚀 Passionate about **DSA & Problem Solving**
@@ -51,8 +50,9 @@
 ## 🏅 Achievements
 
 🏆 Finalist- Google Girls Hackathon  
-🌟 GSSOC Contributor 
-🌟 HactoberFest Contributor
+🌟 GSSOC Contributor   
+🌟 HactoberFest Contributor   
+📈 Consistent Problem Solver    
 
 ---
 
@@ -65,8 +65,9 @@
 
 ## 📝 Fun Facts
 
-✍️ I love reading books and writing poems
-🎯 Setting goals and tracking progress keeps me motivated 
+✍️ I love reading books and writing poems  
+📈 Romanticizing productivity and personal growth daily  
+🎯 Setting goals and tracking progress keeps me motivated   
 
 ---
 
