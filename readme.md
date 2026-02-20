@@ -1,7 +1,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20👋,%20I'm%20Priysha;I'm%203rd%20Year%20Btech%20Student;Currently%20Learning%20Web%20Development;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Namaste%20🙏🏻,%20I'm%20Priysha;I'm%203rd%20Year%20Btech%20Student;Currently%20Learning%20Web%20Development;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=600&height=50&color=f75c7e&vCenter=true&size=24">
 
 
 <img align="right" alt="developer" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
