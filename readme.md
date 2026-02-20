@@ -6,6 +6,7 @@
 
 🎓 Pre-final year **B.Tech CSE student at DIT University**  
 💻 Front-end Developer | Open Source Contributor
+
 🤖 Exploring **AI, ML and Robotics**  
 📈 Aspiring **Software Engineer**  
 🚀 Passionate about **DSA & Problem Solving**
