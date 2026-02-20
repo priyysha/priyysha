@@ -51,8 +51,7 @@
 
 🏆 Finalist- Google Girls Hackathon  
 🌟 GSSOC Contributor 
-🌟 HactoberFest Contributor 
-📈 Consistent Problem Solver  
+🌟 HactoberFest Contributor
 
 ---
 
@@ -65,8 +64,7 @@
 
 ## 📝 Fun Facts
 
-✍️ I love reading books and writing poems  
-📈 Romanticizing productivity and personal growth daily
+✍️ I love reading books and writing poems
 🎯 Setting goals and tracking progress keeps me motivated 
 
 ---
