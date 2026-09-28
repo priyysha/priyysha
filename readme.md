@@ -4,11 +4,11 @@
 
 ## 🌱 About Me
 
-🎓 Pre-final year **B.Tech CSE student at DIT University**  
-💻 Front-end Developer | Open Source Contributor  
-🤖 Exploring **AI, ML and Robotics**  
-📈 Aspiring **Software Engineer**  
-🚀 Passionate about **DSA & Problem Solving**
+🎓 B.Tech CSE @ DIT University
+💻 Full Stack Developer | Tata Technologies Intern
+🤖 Data Science/ML Intern | RAG & Agentic AI
+🧠 300+ LeetCode | DSA & Problem Solving
+🚀 Building real-world solutions with MERN, Python & AI
 
 ---
 
