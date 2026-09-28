@@ -94,10 +94,6 @@
 📈 **Contest Rating:** 1480 <br>
 🔥 **100 Days Consistency Badge**
 
-### DSA Focus
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stacks` · `Queues` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
-
 ---
 
 ## 🌍 Open Source Contributions
@@ -117,7 +113,6 @@
 
 ## 🏅 Achievements
 
-🏆 **Finalist — Google Girls Hackathon** <br>
 🌸 **GSSoC Contributor** — 8+ merged PRs <br>
 🐙 **Hacktoberfest Contributor** — 6 merged PRs <br>
 🧠 **300+ LeetCode Problems Solved** <br>
