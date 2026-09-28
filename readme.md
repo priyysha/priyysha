@@ -7,9 +7,33 @@
 🎓 B.Tech CSE student at DIT University <br>
 💻 Full Stack Developer | MERN | React.js | Node.js <br>
 🤖 AI/ML | RAG | LLMs | Agentic AI <br>
-🏢 Full Stack Developer Intern at Tata Technologies | Data Science Intern at Celebal Technologies <br>
+🏢 Interned at Tata Technologies & Celebal Technologies <br>
 🧠 300+ LeetCode Problems | DSA & Problem Solving <br>
 🚀 Building real-world applications and intelligent solutions
+
+---
+
+## 💼 Experience
+
+### 🏢 Tata Technologies Ltd. | Tata Motors
+**Full Stack Developer Intern** · May 2026 – Jun 2026
+
+⚡ Built a full-stack EV charging station locator and slot-booking platform using the MERN stack. <br>
+📍 Implemented geolocation-based station search with an interactive Leaflet map. <br>
+🔐 Developed JWT authentication, protected API routes and bcrypt password hashing. <br>
+🔄 Designed RESTful APIs for slot booking and cancellation. <br>
+💰 Built a rule-based recommendation engine with cost estimation.
+
+---
+
+### 🏢 Celebal Technologies
+**Data Science Intern** · Jun 2026 – Aug 2026
+
+📊 Built ML pipelines using Random Forest, GridSearchCV and Prophet for regression and forecasting. <br>
+🧠 Developed CNN-based deep learning models for classification and image denoising. <br>
+✍️ Built RNN, LSTM and GRU models for text generation. <br>
+📚 Developed a RAG-based document Q&A pipeline. <br>
+🤖 Built an Agentic AI assistant with intent-based tool routing and task automation.
 
 ---
 
@@ -64,64 +88,15 @@
 
 ---
 
-## 💼 Experience
+## 🧠 Coding & Problem Solving
 
-### 🏢 Tata Technologies Ltd. | Tata Motors
-**Full Stack Developer Intern** · May 2026 – Jun 2026
+💻 **LeetCode:** 300+ Problems Solved <br>
+📈 **Contest Rating:** 1480 <br>
+🔥 **100 Days Consistency Badge**
 
-- ⚡ Built a full-stack EV charging station locator and slot-booking platform using the MERN stack.
-- 📍 Implemented geolocation-based station search with an interactive Leaflet map.
-- 🔐 Developed JWT authentication, protected API routes and bcrypt password hashing.
-- 🔄 Designed RESTful APIs for slot booking and cancellation.
-- 💰 Built a rule-based recommendation engine with cost estimation.
+### DSA Focus
 
----
-
-### 🏢 Celebal Technologies
-**Data Science Intern** · Jun 2026 – Aug 2026
-
-- 📊 Built ML pipelines using Random Forest, GridSearchCV and Prophet for regression and forecasting.
-- 🧠 Developed CNN-based deep learning models for classification and image denoising.
-- ✍️ Built RNN, LSTM and GRU models for text generation.
-- 📚 Developed a RAG-based document Q&A pipeline.
-- 🤖 Built an Agentic AI assistant with intent-based tool routing and task automation.
-
----
-
-## 🚀 Featured Projects
-
-### ⚡ Tata.ev Charging Station Locator
-
-**MERN | React.js | Node.js | Express.js | MongoDB | JWT | Leaflet**
-
-A full-stack EV charging station locator and slot-booking platform.
-
-- 📍 Geolocation-based nearest charging station search
-- 🗺️ Interactive Leaflet map
-- 🔐 JWT authentication
-- ⚡ Real-time slot availability
-- 📅 Slot booking and cancellation
-- 💰 Cost estimation
-- 🚗 Custom "Mark as Charged" flow
-- 📐 Haversine formula for location-based sorting
-
-🔗 [GitHub Repository](YOUR_GITHUB_LINK) | 🌐 [Live Demo](YOUR_LIVE_LINK)
-
----
-
-### 🌱 ChainSmart — ESG E-Commerce Platform
-
-**HTML | CSS | JavaScript**
-
-An ESG-focused e-commerce platform built around sustainable shopping.
-
-- 👤 User onboarding
-- 📦 Product management
-- ♻️ Real-time sustainability scoring
-- 📱 Responsive layouts
-- 🎨 Reusable component-based CSS design system
-
-🔗 [GitHub Repository](YOUR_GITHUB_LINK) | 🌐 [Live Demo](YOUR_LIVE_LINK)
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stacks` · `Queues` · `Linked Lists` · `Trees` · `Graphs` · `Dynamic Programming`
 
 ---
 
@@ -129,52 +104,32 @@ An ESG-focused e-commerce platform built around sustainable shopping.
 
 ### 🌸 GirlScript Summer of Code
 
-- 🔀 Merged **8+ pull requests** across 4 repositories.
-- 🛠️ Worked on issue resolution and feature implementation.
-- 👩‍💻 Incorporated maintainer feedback through code reviews.
+🔀 Merged **8+ Pull Requests** across 4 repositories. <br>
+🛠️ Worked on issue resolution and feature implementation. <br>
+👩‍💻 Incorporated maintainer feedback through code reviews.
 
 ### 🐙 Hacktoberfest
 
-- 🔀 Successfully merged **6 pull requests** into open-source repositories.
-- 🛠️ Contributed fixes and features while following maintainer feedback.
-
----
-
-## 🧠 Coding & Problem Solving
-
-💻 **LeetCode:** 300+ Problems Solved  
-📈 **Contest Rating:** 1480  
-🔥 **100 Days Consistency Badge**
-
-### DSA Focus
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window` · `Stacks` · `Queues` · `Trees` · `Graphs` · `Dynamic Programming`
+🔀 Successfully merged **6 Pull Requests** into open-source repositories. <br>
+🛠️ Contributed fixes and features while following maintainer feedback.
 
 ---
 
 ## 🏅 Achievements
 
-🌟 **GSSoC Contributor** — 8+ merged PRs  
-🌟 **Hacktoberfest Contributor** — 6 merged PRs  
-🧠 **300+ LeetCode Problems Solved**  
-📈 **LeetCode Contest Rating — 1480**  
+🏆 **Finalist — Google Girls Hackathon** <br>
+🌸 **GSSoC Contributor** — 8+ merged PRs <br>
+🐙 **Hacktoberfest Contributor** — 6 merged PRs <br>
+🧠 **300+ LeetCode Problems Solved** <br>
+📈 **LeetCode Contest Rating — 1480** <br>
 🔥 **100 Days Consistency Badge**
-
----
-
-## 📜 Certifications
-
-🤖 **Generative AI & Cloud Computing Foundations** — GDSC  
-☕ **Core Java** — LearnQuest  
-🐧 **Linux Fundamentals** — LearnQuest  
-🗄️ **Database Management Essentials** — University of Colorado Boulder, Coursera
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: **[priysha2911@gmail.com](mailto:priysha2911@gmail.com)**  
-💼 LinkedIn: **[linkedin.com/in/ppriyshaa](https://www.linkedin.com/in/ppriyshaa)**  
+📧 Email: **[priysha2911@gmail.com](mailto:priysha2911@gmail.com)** <br>
+💼 LinkedIn: **[linkedin.com/in/ppriyshaa](https://www.linkedin.com/in/ppriyshaa)** <br>
 💻 GitHub: **[github.com/priyysha](https://github.com/priyysha)**
 
 ---
