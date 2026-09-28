@@ -4,11 +4,13 @@
 
 ## 🌱 About Me
 
-🎓 B.Tech CSE @ DIT University
-💻 Full Stack Developer | Tata Technologies Intern
-🤖 Data Science/ML Intern | RAG & Agentic AI
-🧠 300+ LeetCode | DSA & Problem Solving
-🚀 Building real-world solutions with MERN, Python & AI
+🎓 B.Tech CSE student at DIT University
+💻 Full Stack Developer | MERN | React.js | Node.js
+🤖 Data Science & AI/ML | RAG | LLMs | Agentic AI
+🏢 Interned at Tata Technologies & Celebal Technologies
+🧠 300+ LeetCode problems | DSA & Problem Solving
+🚀 Building real-world applications with scalable technology
+
 
 ---
 
